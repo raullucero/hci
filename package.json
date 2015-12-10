@@ -1,0 +1,26 @@
+{
+  "name": "hci",
+  "version": "1.0.0",
+  "description": "this is a project for hci class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-shell": "^0.5.1",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "shelljs": "^0.5.3"
+  },
+  "devDependencies": {
+    "embed-js": "^3.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hci",
+  "description": "this is a project for hci class",
+  "main": "index.js",
+  "authors": [
+    "Raul Lucero <raul.lucero27@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "semantic": "semantic-ui#~2.1.6"
+  }
+}
